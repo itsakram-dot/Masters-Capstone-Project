@@ -1,3 +1,4 @@
+![KYC] ![AML] ![OCR] ![AML-Compliance] ![Machine-Learning]
 # Automating KYC & AML at JPMorgan Chase
 
 ## 1 Overview  

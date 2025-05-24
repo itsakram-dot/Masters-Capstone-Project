@@ -30,4 +30,5 @@ This capstone project delivers an end-to-end pipeline that speeds up Know Your C
 
 ## 6 Authors
 Akram Mohammed • Pooja Pillay Shivakumar • Amarjeet
+
 MSc Business Analytics, CSU East Bay

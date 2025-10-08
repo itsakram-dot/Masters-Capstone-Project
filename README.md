@@ -1,5 +1,5 @@
 ![KYC] ![AML] ![OCR] ![AML-Compliance] ![Machine-Learning]
-# Automating KYC & AML at JPMorgan Chase
+# Automating KYC & AML @ JPMorgan Chase
 
 ## 1 Overview  
 This capstone project delivers an end-to-end pipeline that speeds up Know Your Customer (KYC) document checks and cuts false-positive Anti-Money Laundering (AML) alerts using OCR, rules, and ML models.

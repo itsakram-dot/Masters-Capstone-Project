@@ -37,7 +37,7 @@ It was designed to help financial institutions streamline document verification,
 	•	Expand ML to deep-learning OCR
 	•	Deploy as serverless API for real-time checks
 
-## 6 Authors
+## Authors
 Akram Mohammed • Pooja Pillay Shivakumar • Amarjeet
 
-MSc Business Analytics, CSU East Bay
+Capstone Project for MSc Business Analytics, CSU East Bay
